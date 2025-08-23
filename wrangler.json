@@ -10,9 +10,14 @@
   },
   "r2_buckets": [
     {
-      "binding": "bucket",
+      "binding": "bucket2",
       "bucket_name": "r2-explorer-bucket",
       "preview_bucket_name": "r2-explorer-bucket"
+    },
+    {
+      "binding": "bucket",
+      "bucket_name": "ndvis-data",
+      "preview_bucket_name": "ndvis-data"
     }
   ],
   "observability": {

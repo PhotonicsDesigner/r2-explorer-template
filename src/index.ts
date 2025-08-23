@@ -6,5 +6,10 @@ export default R2Explorer({
 
   // Learn more how to secure your R2 Explorer instance:
   // https://r2explorer.com/getting-started/security/
-  cfAccessTeamName: "yuannet",
+  basicAuth: {
+    username: 'lewisyuan',
+    password: 'ly@861125'
+  },
+  // or
+  // cfAccessTeamName: "yuannet",
 });
